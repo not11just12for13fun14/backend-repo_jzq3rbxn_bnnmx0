@@ -1,11 +1,19 @@
 INFO:     Will watch for changes in these directories: ['/home/workspace']
 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
-INFO:     Started reloader process [291] using StatReload
-INFO:     Started server process [293]
+INFO:     Started reloader process [336] using StatReload
+INFO:     Started server process [338]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
-INFO:     172.20.0.1:56130 - "HEAD / HTTP/1.1" 405 Method Not Allowed
-INFO:     172.20.0.1:49642 - "GET /api/p/flames-blue HTTP/1.1" 404 Not Found
-INFO:     172.20.0.1:49642 - "GET /api/p/flames-blue HTTP/1.1" 404 Not Found
-INFO:     172.20.0.1:49652 - "GET /api/p/flames-blue HTTP/1.1" 404 Not Found
-INFO:     172.20.0.1:49652 - "GET /api/p/flames-blue HTTP/1.1" 404 Not Found
+INFO:     172.20.0.1:56652 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:55456 - "GET /api/p/flames-blue HTTP/1.1" 404 Not Found
+INFO:     172.20.0.1:55456 - "GET /api/p/flames-blue HTTP/1.1" 404 Not Found
+INFO:     172.20.0.1:55464 - "GET /api/p/flames-blue HTTP/1.1" 404 Not Found
+INFO:     172.20.0.1:55464 - "GET /api/p/flames-blue HTTP/1.1" 404 Not Found
+INFO:     172.20.0.1:56482 - "GET /api/p/flames-blue HTTP/1.1" 404 Not Found
+INFO:     172.20.0.1:56482 - "GET /api/p/flames-blue HTTP/1.1" 404 Not Found
+INFO:     172.20.0.1:56488 - "GET /api/p/flames-blue HTTP/1.1" 404 Not Found
+INFO:     172.20.0.1:56488 - "GET /api/p/flames-blue HTTP/1.1" 404 Not Found
+INFO:     172.20.0.1:56488 - "GET /api/p/flames-blue HTTP/1.1" 404 Not Found
+INFO:     172.20.0.1:48288 - "GET /api/p/flames-blue HTTP/1.1" 404 Not Found
+INFO:     172.20.0.1:52206 - "GET /api/p/flames-blue HTTP/1.1" 404 Not Found
+INFO:     172.20.0.1:52206 - "GET /api/p/flames-blue HTTP/1.1" 404 Not Found
